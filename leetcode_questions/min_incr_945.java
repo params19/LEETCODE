@@ -8,18 +8,22 @@ class Solution {
         }
 
         Arrays.sort(nums);  
+        //sort the array to handle duplicates elements
         int res = 0;
         int prev = nums[0];
 
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] <= prev) {
-                res += prev + 1 - nums[i];
+        for (int i = 1; i < nums.length; i++)
+        {
+            if (nums[i] <= prev) 
+            {
+                res += (prev-nums[i])+1;
                 prev++;
-            } else {
+            } 
+            else
+            {
                 prev = nums[i];
             }
         }
-
         return res;
     }
 }
