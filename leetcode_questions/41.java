@@ -1,5 +1,7 @@
 import java.util.*;
 class Solution {
+    //Time complexity: O(n)
+    //Space complexity: O(n)
     public int firstMissingPositive(int[] nums) {
         Arrays.sort(nums);
         Set<Integer> ll = new HashSet<>();

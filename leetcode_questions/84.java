@@ -1,5 +1,7 @@
 import java.util.*;
 class Solution {
+    //Time complexity: O(n)
+    //Space complexity: O(n)
     public int largestRectangleArea(int[] heights) {
         int ma=0;
         int nsr[]=new int[heights.length];

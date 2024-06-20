@@ -1,4 +1,6 @@
 class Solution {
+    //Time complexity:O(n+m)
+    //Space complexity:O(1)
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1;
         int j = n - 1;

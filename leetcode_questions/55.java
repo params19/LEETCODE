@@ -1,4 +1,6 @@
 class Solution {
+    //Time complexity: O(n)
+    //Space complexity: O(1)
     public boolean canJump(int[] nums) {
        if(nums[0]==0)
        {

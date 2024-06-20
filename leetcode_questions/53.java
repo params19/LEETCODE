@@ -1,4 +1,6 @@
 class Solution {
+    //Time complexity: O(n)
+    //Space complexity: O(1)
     public int maxSubArray(int[] nums) {
         int sum = 0;
         int max = nums[0];

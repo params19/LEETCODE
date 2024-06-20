@@ -1,4 +1,6 @@
 class Solution {
+    //Time complexity: O(n)
+    //Space complexity: O(n)
     public void sortColors(int[] nums) {
         int l=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++)

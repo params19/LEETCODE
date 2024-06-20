@@ -1,5 +1,7 @@
 import java.util.*;
 class Solution {
+    //Time complexity: O(n)
+    //Space complexity: O(1)
     public int romanToInt(String s) {
         Map<Character, Integer> map = new HashMap();
         map.put('I', 1);

@@ -1,4 +1,6 @@
 class Solution {
+    //Time complexity: O(logn)
+    //Space complexity: O(1)
     public int reverse(int x) {
         int u=0;
     if(x>0)
