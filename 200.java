@@ -14,6 +14,7 @@ class Solution {
             {
                 if(grid[i][j]=='1')
                 {
+                    //here we are incrementing the count of islands
                     cnt++;
                     dfs(grid,i,j);
                 }
@@ -23,6 +24,7 @@ class Solution {
     }
     private static void dfs(char[][] grid,int i,int j)
     {
+        //standard dfs code
         int n=grid.length;
         int m=grid[0].length;
         if(i<0 || j<0 || i>=n || j>=m || grid[i][j]=='0')
