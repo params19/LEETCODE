@@ -1,8 +1,10 @@
+package top__150;
+
 import java.util.*;
 class solution
 {
-    //Time complexity :
-    //Space Complexity : 
+    //Time complexity:O(V+E)
+    //Space complexity:O(V) 
     //Function to return list containing vertices in Topological order. 
     static int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj)
     {
