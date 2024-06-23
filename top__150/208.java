@@ -1,3 +1,5 @@
+package top__150;
+
 class Trie {
 
     class Node{
