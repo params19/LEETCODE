@@ -1,7 +1,7 @@
 package top__150;
 
 import java.util.*;
-class solution
+class topological_sort_bfs
 {
     //Time complexity:O(V+E)
     //Space complexity:O(V) 

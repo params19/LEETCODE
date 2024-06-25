@@ -4,7 +4,7 @@ package top__150;
 //Linear ordering of the vertices such that if there is an edge between u and v then, u appears before v in thta ordering.
 //only in "directed acyclic graph"(DAG).
 import java.util.*;
-class solution
+class topological_sort_dfs
 {
     private static void dfs(int node, int vis[], Stack<Integer> st,  ArrayList<ArrayList<Integer>> adj)
     {

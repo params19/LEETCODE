@@ -1,7 +1,7 @@
 import java.util.Arrays;
 // TIME COMPLEXITY : nlogn
 // SPACE COMPLEXITY : O(1)
-class Solution {
+class min_incr_945 {
     public int minIncrementForUnique(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;

@@ -1,4 +1,4 @@
-class Solution {
+class reverse_integer_7 {
     //Time complexity: O(logn)
     //Space complexity: O(1)
     public int reverse(int x) {
