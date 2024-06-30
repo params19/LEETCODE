@@ -12,12 +12,12 @@ public class Solution {
                 freq[roads[i][j]]=freq[roads[i][j]]+1;
             }
         }
-        long ans=0;
+        long s=0;
         Arrays.sort(freq);
         for(int i=0;i<n;i++)
         {
-            ans+=(freq[i]*(i+1));
+            s+=(freq[i]*(i+1));
         }
-        return ans;
+        return s;
     }
 } 
