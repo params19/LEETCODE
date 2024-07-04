@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class qr {
     public long maximumImportance(int n, int[][] roads) {
         long freq[]=new long[n];
         int n1=roads.length;
