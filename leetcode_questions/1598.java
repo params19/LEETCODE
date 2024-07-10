@@ -11,7 +11,7 @@ class Solution {
             }
             else if(st.equals("./"))
             {
-                count=count;
+                // No need to assign count to itself, remove this line
             }
             else{
                 count--;
