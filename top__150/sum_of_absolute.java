@@ -1,3 +1,4 @@
+package top__150;
 class Solution {
     public int[] getSumAbsoluteDifferences(int[] nums) {
         int[] arr = new int[nums.length];
