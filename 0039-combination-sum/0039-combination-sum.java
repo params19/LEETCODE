@@ -2,24 +2,26 @@ import java.util.*;
 class Solution{
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
-        findcombination(0,candidates,target,res,new ArrayList<>());
+        List<Integer> temp= new ArrayList<>();
+        solve(0,candidates,target,res,temp);
         return res;
     }
-    public void findcombination(int ind,int[] candidates,int target,List<List<Integer>> res,List<Integer> ds){
-        if(ind == candidates.length)
+    public void solve(int i,int[] candidates,int target,List<List<Integer>> res,List<Integer> temp){
+        if(i==candidates.length)
         {
             if(target == 0)
             {
-                res.add(new ArrayList<>(ds));
+                 res.add(new ArrayList<>(temp));
             }
             return;
         }
-        if(candidates[ind] <= target)
+        if(candidates[i] <= target)
         {
-            ds.add(candidates[ind]);
-            findcombination(ind,candidates,target-candidates[ind],res,ds);
-            ds.remove(ds.size()-1);
+            temp.add(candidates[i]);
+            solve(i,candidates,target-candidates[i],res,temp);
+            temp.remove(temp.size()-1);
         }
-        findcombination(ind+1,candidates,target,res,ds);
+        // temp.remove(temp.size()-1);
+        solve(i+1,candidates,target,res,temp);
     }
 }
