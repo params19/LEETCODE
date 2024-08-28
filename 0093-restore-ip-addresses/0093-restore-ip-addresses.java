@@ -1,37 +1,29 @@
+import java.util.*;
 class Solution {
     public List<String> restoreIpAddresses(String s) {
-        Set<String> ls = new HashSet<>();
-        getIpAddresses(s, ls, "", 0, false,-1,0);
-        return new ArrayList(ls);
+        List<String> res = new ArrayList<>();
+        solve(0, 0, s, "", res);
+        return res;
     }
 
-    public void getIpAddresses(String s, Set<String> ls, String temp, int cur, boolean isDot, int num, int dot){
-        if(cur == s.length() && dot == 3){
-            ls.add(temp);
+    private void solve(int index, int sections, String s, String current, List<String> res) {
+        if (index == s.length() && sections == 4) {
+            res.add(current.substring(0, current.length() - 1)); 
             return;
         }
-        if(dot < 0 || cur >= s.length()) return;
-
-        char alpha = s.charAt(cur);
-        int digit = alpha - '0';
-
-        if(num == 0 && digit >= 0) return; // Edge case 
-
-        num = (num < 0) ? digit : num*10 + digit;
-        
-        // Adding dot
-        if(isDot) {
-            temp += '.';
-            dot += 1;
+        if (sections >= 4) {
+            return;
         }
 
-        if(num <= 255){
-            temp += alpha;
-            cur += 1;
-            getIpAddresses(s, ls, temp, cur, false,num,dot);
-            temp.substring(0, temp.length()-1);
+        for (int len = 1; len <= 3; len++) {
+            if (index + len <= s.length() && isOkay(s.substring(index, index + len))) {
+                solve(index + len, sections + 1, s, current + s.substring(index, index + len) + ".", res);
+            }
         }
-        // calling method to add a dot 
-        getIpAddresses(s, ls, temp, cur, true, -1, dot);
+    }
+
+    private boolean isOkay(String s) {
+        int number = Integer.parseInt(s);
+        return (s.length() == Integer.toString(number).length() && number >= 0 && number <= 255);
     }
 }
