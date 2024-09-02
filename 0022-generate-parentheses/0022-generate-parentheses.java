@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
-   
+ 
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
         solve(0, 0, new StringBuilder(), n * 2, res);
