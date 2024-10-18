@@ -5,39 +5,28 @@ class Solution {
         // for(int i : nums)
         //     set.add(i);
         // if(set.size()==1)return (int)Math.pow(2,n)-1;
-        int ans=generate(nums);
-        return ans;
-    }
-    
-    public static int generate(int[] arr) 
-    {
-        List<List<Integer>> subsets = new ArrayList<>();
-        int n = arr.length;
-        int total= 1 << n;
-        int max=0;
-        int cnt=0;
-            for(int i : arr)
-                max|=i;
-        for (int i = 0; i < total; i++)
-        {
-            List<Integer> current = new ArrayList<>();
+        int maxOR = 0;
+        for (int num : nums) {
+            maxOR |= num; 
+        }
+
+        int count = 0;
+        int n = nums.length;
+
+        for (int i = 1; i < (1 << n); i++) {
+            int currentOR = 0;
             for (int j = 0; j < n; j++) {
+                
                 if ((i & (1 << j)) != 0) {
-                    current.add(arr[j]);
+                    currentOR |= nums[j]; 
                 }
             }
-            if(check(current)==max)
-                cnt++;
+            
+            if (currentOR == maxOR) {
+                count++;
+            }
         }
-        return cnt;
-    }
-    private static int check(List<Integer> ll)
-    {
-        int or=0;
-        for(int i=0;i<ll.size();i++)
-        {
-            or|=ll.get(i);
-        }
-        return or;
+
+        return count; 
     }
 }
