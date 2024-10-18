@@ -1,10 +1,10 @@
 class Solution {
     public int countMaxOrSubsets(int[] nums) {
-        Set<Integer> set=new HashSet<>();
-        int n=nums.length;
-        for(int i : nums)
-            set.add(i);
-        if(set.size()==1)return (int)Math.pow(2,n)-1;
+        // Set<Integer> set=new HashSet<>();
+        // int n=nums.length;
+        // for(int i : nums)
+        //     set.add(i);
+        // if(set.size()==1)return (int)Math.pow(2,n)-1;
         int ans=generate(nums);
         return ans;
     }
