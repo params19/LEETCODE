@@ -1,19 +1,13 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-      int t[]=new int[2];
         int k=target;
         int n=nums.length;
         int lb=lowerbound(nums,k);
         int ub=upperbound(nums,k);
-        if((lb==n)||(nums[lb]!=target))
-        {
-            t[0]=-1;
-            t[1]=-1;
-            return t;
+         if (lb == n || nums[lb] != target) {
+            return new int[] {-1, -1};
         }
-        t[0]=lb;
-        t[1]=ub-1;
-        return t;
+        return new int[] {lb, ub - 1};
     }
     private static int lowerbound(int arr[],int target)
     {
