@@ -10,7 +10,7 @@ class Solution {
             {
                 si++;
                 ei--;
-                // continue;
+                continue;
             }
             else if(nums[si]<=nums[mid])
             {
