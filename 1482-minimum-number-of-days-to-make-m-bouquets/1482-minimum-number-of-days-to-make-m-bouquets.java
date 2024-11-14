@@ -8,9 +8,9 @@ class Solution {
             si=Math.min(si,i);
             ei=Math.max(ei,i);
         }
-        long p=(long)k*m;
-        if(p>n)return -1;
-        // if(k*m>n)return -1;
+        // long p=(long)k*m;
+        // if(p>n)return -1;
+        if((long)k*m>n)return -1;
         while(si<=ei)
         {
             int mid=si+(ei-si)/2;
