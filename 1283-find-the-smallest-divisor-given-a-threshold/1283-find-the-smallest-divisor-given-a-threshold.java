@@ -1,7 +1,11 @@
 class Solution {
     public int smallestDivisor(int[] nums, int t) {
         int si=1;
-        int ei=1000000000;
+        int ei=Integer.MIN_VALUE;
+        for(int i : nums)
+        {
+            ei=Math.max(ei,i);
+        }
         while(si<=ei)
         {
             int mid=si+(ei-si)/2;
