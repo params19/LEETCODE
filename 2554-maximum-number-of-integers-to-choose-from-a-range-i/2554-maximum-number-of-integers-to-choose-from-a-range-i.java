@@ -6,14 +6,14 @@ class Solution {
         int cnt=0;
         for(long i=1;i<=n;i++)
         {
-            if(ss.contains(i))continue;
-            if((s+i)<=max)
+            // if(ss.contains(i))continue;
+            if(!(ss.contains(i))&&(s+i)<=max)
             {
                 cnt++;
                 s+=i;
-                // ss.remove(i);
+                ss.remove(i);
             }
-            else break;
+            // else break;
         }
         return cnt;
     }
