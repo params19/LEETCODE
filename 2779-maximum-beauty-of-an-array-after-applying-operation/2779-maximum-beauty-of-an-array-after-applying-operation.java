@@ -1,23 +1,23 @@
 class Solution {
     public int maximumBeauty(int[] nums, int k) {
-        List<int[]> range = new ArrayList<>();
-        for (int n : nums) {
-            range.add(new int[]{n - k, n + k});
-        }
-        range.sort((a, b) -> Integer.compare(a[0], b[0]));
-        int mx= 0;
-        Deque<Integer> deque = new ArrayDeque<>();
-
-        for (int[] r : range) 
-        {
-            while (!deque.isEmpty() && deque.peekFirst() < r[0])                 {
-                deque.pollFirst();
+       int maxNum = Arrays.stream(nums).max().orElse(0);
+        int minNum = Arrays.stream(nums).min().orElse(0);
+        int range = maxNum + k + 1;
+        int[] diff = new int[range];
+        for (int num : nums) {
+            int start = Math.max(0, num - k);
+            int end = num + k + 1; 
+            diff[start]++;
+            if (end < range) {
+                diff[end]--;
             }
-            deque.offerLast(r[1]);
-
-            mx = Math.max(mx, deque.size());
+        }
+        int maxFreq = 0, currFreq = 0;
+        for (int value : diff) {
+            currFreq += value;
+            maxFreq = Math.max(maxFreq, currFreq);
         }
 
-        return mx;
+        return maxFreq;
     }
 }
