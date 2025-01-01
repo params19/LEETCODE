@@ -2,12 +2,12 @@ class Solution {
     public int maxScore(String s) {
         int n=s.length();
         int ans=0;
-        int idx1=s.indexOf('1');
-        int idx2=s.indexOf('0');
-        if(idx1==-1||idx2==-1)
-        {
-            return n-1;
-        }
+        // int idx1=s.indexOf('1');
+        // int idx2=s.indexOf('0');
+        // if(idx1==-1||idx2==-1)
+        // {
+        //     return n-1;
+        // }
         for(int i=1;i<n;i++)
         {
             String s1=s.substring(0,i);
