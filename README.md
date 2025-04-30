@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/params19/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/params19/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -47,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/params19/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/params19/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
