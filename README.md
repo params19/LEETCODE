@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/params19/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0070-climbing-stairs) |
+| [3830-find-closest-person](https://github.com/params19/LEETCODE/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
