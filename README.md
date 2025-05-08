@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/params19/LEETCODE/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
+| [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/params19/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
+## Greedy
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
