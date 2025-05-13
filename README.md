@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/params19/LEETCODE/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/params19/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/params19/LEETCODE/tree/master/0207-course-schedule) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/params19/LEETCODE/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/params19/LEETCODE/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
