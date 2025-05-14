@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/params19/LEETCODE/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/params19/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Memoization
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Greedy
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/params19/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
+## Enumeration
+|  |
+| ------- |
+| [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 <!---LeetCode Topics End-->
