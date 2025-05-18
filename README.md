@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/params19/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/params19/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/params19/LEETCODE/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/params19/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/params19/LEETCODE/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->
