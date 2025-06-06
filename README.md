@@ -90,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
+| [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 | [3837-grid-teleportation-traversal](https://github.com/params19/LEETCODE/tree/master/3837-grid-teleportation-traversal) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/params19/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/params19/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/params19/LEETCODE/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/params19/LEETCODE/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
+| [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 ## Graph
 |  |
 | ------- |
@@ -181,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
+## Segment Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
+## Ordered Set
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 <!---LeetCode Topics End-->
