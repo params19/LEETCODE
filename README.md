@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/params19/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
+| [1168-duplicate-zeros](https://github.com/params19/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 | [3837-grid-teleportation-traversal](https://github.com/params19/LEETCODE/tree/master/3837-grid-teleportation-traversal) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
+| [1168-duplicate-zeros](https://github.com/params19/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/params19/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/params19/LEETCODE/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
