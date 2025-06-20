@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/params19/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/params19/LEETCODE/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/params19/LEETCODE/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/params19/LEETCODE/tree/master/2050-count-good-numbers) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3830-find-closest-person](https://github.com/params19/LEETCODE/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/params19/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3837-grid-teleportation-traversal](https://github.com/params19/LEETCODE/tree/master/3837-grid-teleportation-traversal) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/params19/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/params19/LEETCODE/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Binary Search Tree
