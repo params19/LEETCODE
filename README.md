@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/params19/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/params19/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/params19/LEETCODE/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0753-open-the-lock](https://github.com/params19/LEETCODE/tree/master/0753-open-the-lock) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/params19/LEETCODE/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/params19/LEETCODE/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/params19/LEETCODE/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/params19/LEETCODE/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/params19/LEETCODE/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/params19/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/params19/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/params19/LEETCODE/tree/master/0212-word-search-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/params19/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/params19/LEETCODE/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/params19/LEETCODE/tree/master/0212-word-search-ii) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
 | [3837-grid-teleportation-traversal](https://github.com/params19/LEETCODE/tree/master/3837-grid-teleportation-traversal) |
