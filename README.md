@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/params19/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/params19/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/params19/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/params19/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
