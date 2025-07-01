@@ -12,6 +12,7 @@ class Solution {
     public int solve(int grid[][], int dp[][], int i, int j, int m, int n)
     {
         if(i==m-1&&j==n-1)return grid[i][j];
+        if(i<0||i>=m||j<0||j>=n)return 0;
         if(dp[i][j]!=-1)return dp[i][j];
         if(i==m-1)
         {
