@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/params19/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/params19/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/params19/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/params19/LEETCODE/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/params19/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/params19/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/params19/LEETCODE/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/params19/LEETCODE/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/params19/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/params19/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/params19/LEETCODE/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/params19/LEETCODE/tree/master/0212-word-search-ii) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
