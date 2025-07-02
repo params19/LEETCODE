@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/params19/LEETCODE/tree/master/2050-count-good-numbers) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3830-find-closest-person](https://github.com/params19/LEETCODE/tree/master/3830-find-closest-person) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/params19/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3837-grid-teleportation-traversal](https://github.com/params19/LEETCODE/tree/master/3837-grid-teleportation-traversal) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/params19/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/params19/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
