@@ -16,7 +16,7 @@ class Solution {
                 dec--;
             }
         }
-        arr[n]=inc;
+        arr[n]=dec;
         return arr;
     }
 }
