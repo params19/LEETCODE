@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/params19/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/params19/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/params19/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/params19/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/params19/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/params19/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/params19/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/params19/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
