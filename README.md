@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/params19/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/params19/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/params19/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/params19/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/params19/LEETCODE/tree/master/0078-subsets) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/params19/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/params19/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0126-word-ladder-ii](https://github.com/params19/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/params19/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
