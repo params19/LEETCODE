@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/params19/LEETCODE/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/params19/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/params19/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/params19/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/params19/LEETCODE/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/params19/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
