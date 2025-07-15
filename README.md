@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/params19/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/params19/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/params19/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/params19/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/params19/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/params19/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/params19/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/params19/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/params19/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/params19/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/params19/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/params19/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
