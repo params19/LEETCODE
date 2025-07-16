@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [1105-uncrossed-lines](https://github.com/params19/LEETCODE/tree/master/1105-uncrossed-lines) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/params19/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/params19/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/params19/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/params19/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/params19/LEETCODE/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/params19/LEETCODE/tree/master/0134-gas-station) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
@@ -364,4 +367,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/params19/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
