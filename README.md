@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/params19/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/params19/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/params19/LEETCODE/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/params19/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/params19/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/params19/LEETCODE/tree/master/0165-compare-version-numbers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/params19/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/params19/LEETCODE/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/params19/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/params19/LEETCODE/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/params19/LEETCODE/tree/master/0174-dungeon-game) |
