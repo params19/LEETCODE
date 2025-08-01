@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/params19/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/params19/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/params19/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/params19/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/params19/LEETCODE/tree/master/0648-replace-words) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/params19/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/params19/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/params19/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/params19/LEETCODE/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
@@ -435,12 +437,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/params19/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/params19/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/params19/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/params19/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/params19/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/params19/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
