@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/params19/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/params19/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/params19/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/params19/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/params19/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/params19/LEETCODE/tree/master/0126-word-ladder-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/params19/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/params19/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/params19/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/params19/LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/params19/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/params19/LEETCODE/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/params19/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/params19/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/params19/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/params19/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/params19/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [2050-count-good-numbers](https://github.com/params19/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Design
