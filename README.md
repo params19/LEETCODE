@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/params19/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/params19/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/params19/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/params19/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [1105-uncrossed-lines](https://github.com/params19/LEETCODE/tree/master/1105-uncrossed-lines) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/params19/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/params19/LEETCODE/tree/master/0648-replace-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/params19/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/params19/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/params19/LEETCODE/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/params19/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/params19/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/params19/LEETCODE/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
