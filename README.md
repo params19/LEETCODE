@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/params19/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/params19/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/params19/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/params19/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/params19/LEETCODE/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/params19/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/params19/LEETCODE/tree/master/0753-open-the-lock) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/params19/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/params19/LEETCODE/tree/master/0648-replace-words) |
+| [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/params19/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0735-asteroid-collision](https://github.com/params19/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/params19/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/params19/LEETCODE/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/params19/LEETCODE/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/params19/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/params19/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/params19/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/params19/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
