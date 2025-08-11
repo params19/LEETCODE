@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/params19/LEETCODE/tree/master/1105-uncrossed-lines) |
 | [1168-duplicate-zeros](https://github.com/params19/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/params19/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1306-minimum-absolute-difference](https://github.com/params19/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1380-number-of-closed-islands](https://github.com/params19/LEETCODE/tree/master/1380-number-of-closed-islands) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1306-minimum-absolute-difference](https://github.com/params19/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/params19/LEETCODE/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
