@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/params19/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/params19/LEETCODE/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/params19/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/params19/LEETCODE/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/params19/LEETCODE/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/params19/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/params19/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/params19/LEETCODE/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/params19/LEETCODE/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/params19/LEETCODE/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/params19/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/params19/LEETCODE/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Prefix Sum
 |  |
 | ------- |
