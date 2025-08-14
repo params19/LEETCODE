@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/params19/LEETCODE/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2714-left-and-right-sum-differences](https://github.com/params19/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/params19/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2714-left-and-right-sum-differences](https://github.com/params19/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
