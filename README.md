@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/params19/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/params19/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/params19/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/params19/LEETCODE/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/params19/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/params19/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/params19/LEETCODE/tree/master/0126-word-ladder-ii) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/params19/LEETCODE/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/params19/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/params19/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/params19/LEETCODE/tree/master/0503-next-greater-element-ii) |
