@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/params19/LEETCODE/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/params19/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/params19/LEETCODE/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/params19/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/params19/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/params19/LEETCODE/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/params19/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/params19/LEETCODE/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2714-left-and-right-sum-differences](https://github.com/params19/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
