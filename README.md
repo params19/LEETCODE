@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/params19/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/params19/LEETCODE/tree/master/1105-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/params19/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/params19/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/params19/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/params19/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/params19/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-minimum-absolute-difference](https://github.com/params19/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1380-number-of-closed-islands](https://github.com/params19/LEETCODE/tree/master/1380-number-of-closed-islands) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/params19/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-coloring-a-border](https://github.com/params19/LEETCODE/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/params19/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/params19/LEETCODE/tree/master/1380-number-of-closed-islands) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/params19/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/params19/LEETCODE/tree/master/1753-path-with-minimum-effort) |
