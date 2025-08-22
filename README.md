@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/params19/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/params19/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/params19/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3790-fruits-into-baskets-ii](https://github.com/params19/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3837-grid-teleportation-traversal](https://github.com/params19/LEETCODE/tree/master/3837-grid-teleportation-traversal) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/params19/LEETCODE/tree/master/1559-cherry-pickup-ii) |
 | [1572-subrectangle-queries](https://github.com/params19/LEETCODE/tree/master/1572-subrectangle-queries) |
 | [1753-path-with-minimum-effort](https://github.com/params19/LEETCODE/tree/master/1753-path-with-minimum-effort) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/params19/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3837-grid-teleportation-traversal](https://github.com/params19/LEETCODE/tree/master/3837-grid-teleportation-traversal) |
 ## Sorting
 |  |
