@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/params19/LEETCODE/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/params19/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/params19/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
+| [1806-count-of-matches-in-tournament](https://github.com/params19/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
 | [2050-count-good-numbers](https://github.com/params19/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/params19/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -557,5 +558,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/params19/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1806-count-of-matches-in-tournament](https://github.com/params19/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
 | [3790-fruits-into-baskets-ii](https://github.com/params19/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
