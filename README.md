@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/params19/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/params19/LEETCODE/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/params19/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/params19/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/params19/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/params19/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/params19/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/params19/LEETCODE/tree/master/1105-uncrossed-lines) |
+| [1236-n-th-tribonacci-number](https://github.com/params19/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/params19/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/params19/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/params19/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/params19/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/params19/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/params19/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
