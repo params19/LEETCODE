@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/params19/LEETCODE/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/params19/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/params19/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [1104-coloring-a-border](https://github.com/params19/LEETCODE/tree/master/1104-coloring-a-border) |
 | [1105-uncrossed-lines](https://github.com/params19/LEETCODE/tree/master/1105-uncrossed-lines) |
 | [1168-duplicate-zeros](https://github.com/params19/LEETCODE/tree/master/1168-duplicate-zeros) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/params19/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/params19/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/params19/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/params19/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/params19/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/params19/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/params19/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/params19/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/params19/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/params19/LEETCODE/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/params19/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/params19/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Divide and Conquer
 |  |
