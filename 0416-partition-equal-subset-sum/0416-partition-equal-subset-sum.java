@@ -1,25 +1,25 @@
 class Solution {
-    int[][] dp;
     public boolean canPartition(int[] nums) {
         int n=nums.length;
         int sum=0;
-        for (int num : nums)sum+=num;
-        if (sum % 2 != 0) return false;
-        int target=sum/2;
-        dp=new int[n][target + 1]; 
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(dp[i], -1);
-        }
-        return solve(0, nums, target);
+        for(int i : nums)sum+=i;
+        if(sum%2!=0)return false;
+        int tar=sum/2;
+        Boolean dp[][]=new Boolean[n+1][sum+1];
+        return solve(dp, nums, n-1, tar);
     }
-
-    public boolean solve(int i, int[] nums, int target) {
-        if (target==0) return true;
-        if (i==nums.length || target<0) return false;
-        if (dp[i][target]!=-1) return dp[i][target]==1;
-        boolean take=solve(i + 1, nums, target-nums[i]);
-        boolean skip=solve(i + 1, nums, target);
-        dp[i][target] = (take || skip) ? 1 : 0;
-        return take || skip;
+    public Boolean solve(Boolean dp[][], int[] nums, int i, int tar)
+    {
+        if(tar==0)return true;
+        if(i==0)return false;
+        if(dp[i][tar]!=null)return dp[i][tar];
+        if(nums[i]<=tar)
+        {
+            dp[i][tar]=solve(dp, nums, i-1, tar-nums[i])||solve(dp, nums, i-1, tar);
+        }
+        else{
+            dp[i][tar]=solve(dp, nums, i-1, tar);
+        }
+        return dp[i][tar];
     }
 }
