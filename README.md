@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/params19/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/params19/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/params19/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/params19/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/params19/LEETCODE/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/params19/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/params19/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/params19/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/params19/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/params19/LEETCODE/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/params19/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/params19/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/params19/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/params19/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/params19/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/params19/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/params19/LEETCODE/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/params19/LEETCODE/tree/master/2134-maximize-the-confusion-of-an-exam) |
