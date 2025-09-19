@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/params19/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/params19/LEETCODE/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2887-sort-vowels-in-a-string](https://github.com/params19/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/params19/LEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/params19/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/params19/LEETCODE/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/params19/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/params19/LEETCODE/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/params19/LEETCODE/tree/master/2480-find-subarrays-with-equal-sum) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/params19/LEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/params19/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/params19/LEETCODE/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3837-grid-teleportation-traversal](https://github.com/params19/LEETCODE/tree/master/3837-grid-teleportation-traversal) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/params19/LEETCODE/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/params19/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/params19/LEETCODE/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/params19/LEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
