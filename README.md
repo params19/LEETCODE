@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/params19/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/params19/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/params19/LEETCODE/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/params19/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/params19/LEETCODE/tree/master/0753-open-the-lock) |
+| [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1104-coloring-a-border](https://github.com/params19/LEETCODE/tree/master/1104-coloring-a-border) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/params19/LEETCODE/tree/master/0753-open-the-lock) |
+| [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/params19/LEETCODE/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/params19/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/params19/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/params19/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/params19/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/params19/LEETCODE/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/params19/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/params19/LEETCODE/tree/master/0741-cherry-pickup) |
+| [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1104-coloring-a-border](https://github.com/params19/LEETCODE/tree/master/1104-coloring-a-border) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/params19/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/params19/LEETCODE/tree/master/1380-number-of-closed-islands) |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1380-number-of-closed-islands](https://github.com/params19/LEETCODE/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/params19/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/params19/LEETCODE/tree/master/1753-path-with-minimum-effort) |
@@ -527,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/params19/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [3226-minimum-number-game](https://github.com/params19/LEETCODE/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
