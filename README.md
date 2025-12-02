@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/params19/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3226-minimum-number-game](https://github.com/params19/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/params19/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/params19/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/params19/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3790-fruits-into-baskets-ii](https://github.com/params19/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
@@ -555,11 +556,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/params19/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/params19/LEETCODE/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/params19/LEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/params19/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/params19/LEETCODE/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2714-left-and-right-sum-differences](https://github.com/params19/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/params19/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/params19/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
