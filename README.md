@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/params19/LEETCODE/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/params19/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/params19/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/params19/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/params19/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/params19/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/params19/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/params19/LEETCODE/tree/master/1105-uncrossed-lines) |
 | [1168-duplicate-zeros](https://github.com/params19/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/params19/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/params19/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/params19/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1380-number-of-closed-islands](https://github.com/params19/LEETCODE/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/params19/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/params19/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/params19/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/params19/LEETCODE/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/params19/LEETCODE/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/params19/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
