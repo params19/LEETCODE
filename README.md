@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/params19/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/params19/LEETCODE/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/params19/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/params19/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/params19/LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/params19/LEETCODE/tree/master/0015-3sum) |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/params19/LEETCODE/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/params19/LEETCODE/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/params19/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/params19/LEETCODE/tree/master/0141-linked-list-cycle) |
