@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/params19/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/params19/LEETCODE/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/params19/LEETCODE/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/params19/LEETCODE/tree/master/1753-path-with-minimum-effort) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/params19/LEETCODE/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3226-minimum-number-game](https://github.com/params19/LEETCODE/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
