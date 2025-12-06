@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/params19/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/params19/LEETCODE/tree/master/0326-power-of-three) |
+| [0382-linked-list-random-node](https://github.com/params19/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/params19/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/params19/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/params19/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/params19/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/params19/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/params19/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/params19/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/params19/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/params19/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/params19/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
@@ -619,4 +621,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/params19/LEETCODE/tree/master/1806-count-of-matches-in-tournament) |
 | [3226-minimum-number-game](https://github.com/params19/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/params19/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/params19/LEETCODE/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/params19/LEETCODE/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
