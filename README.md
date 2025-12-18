@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
 | [1250-longest-common-subsequence](https://github.com/params19/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/params19/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/params19/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/params19/LEETCODE/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2887-sort-vowels-in-a-string](https://github.com/params19/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/params19/LEETCODE/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/params19/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/params19/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2094-finding-3-digit-even-numbers](https://github.com/params19/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/params19/LEETCODE/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/params19/LEETCODE/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/params19/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/params19/LEETCODE/tree/master/1306-minimum-absolute-difference) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/params19/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/params19/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/params19/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/params19/LEETCODE/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/params19/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/params19/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/params19/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/params19/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/params19/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2765-make-array-empty](https://github.com/params19/LEETCODE/tree/master/2765-make-array-empty) |
