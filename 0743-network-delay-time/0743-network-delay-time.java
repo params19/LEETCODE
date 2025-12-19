@@ -36,7 +36,6 @@ class Solution {
             {
                 int v=edge[0];
                 int d_=edge[1]+d;
-                if(v>n)continue;
                 if(d_<dist[v])
                 {
                     dist[v]=d_;
