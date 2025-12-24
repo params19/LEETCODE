@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/params19/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/params19/LEETCODE/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/params19/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/params19/LEETCODE/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/params19/LEETCODE/tree/master/0743-network-delay-time) |
 | [0753-open-the-lock](https://github.com/params19/LEETCODE/tree/master/0753-open-the-lock) |
+| [0785-is-graph-bipartite](https://github.com/params19/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0813-all-paths-from-source-to-target](https://github.com/params19/LEETCODE/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/params19/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/params19/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/params19/LEETCODE/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/params19/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/params19/LEETCODE/tree/master/0813-all-paths-from-source-to-target) |
 | [1300-critical-connections-in-a-network](https://github.com/params19/LEETCODE/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/params19/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/params19/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/params19/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1380-number-of-closed-islands](https://github.com/params19/LEETCODE/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/params19/LEETCODE/tree/master/1442-number-of-operations-to-make-network-connected) |
