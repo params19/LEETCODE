@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/params19/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/params19/LEETCODE/tree/master/0890-lemonade-change) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/params19/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/params19/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/params19/LEETCODE/tree/master/0979-di-string-match) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/params19/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/params19/LEETCODE/tree/master/1072-next-greater-node-in-linked-list) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
 | [0753-open-the-lock](https://github.com/params19/LEETCODE/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/params19/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/params19/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/params19/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/params19/LEETCODE/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
