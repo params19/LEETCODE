@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/params19/LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/params19/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/params19/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/params19/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/params19/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/params19/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/params19/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/params19/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/params19/LEETCODE/tree/master/0049-group-anagrams) |
+| [0414-third-maximum-number](https://github.com/params19/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/params19/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/params19/LEETCODE/tree/master/0720-longest-word-in-dictionary) |
