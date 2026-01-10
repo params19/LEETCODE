@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/params19/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/params19/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/params19/LEETCODE/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/params19/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/params19/LEETCODE/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/params19/LEETCODE/tree/master/0382-linked-list-random-node) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/params19/LEETCODE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/params19/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/params19/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/params19/LEETCODE/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/params19/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/params19/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/params19/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/params19/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/params19/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/params19/LEETCODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/params19/LEETCODE/tree/master/0202-happy-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/params19/LEETCODE/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/params19/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/params19/LEETCODE/tree/master/0768-partition-labels) |
